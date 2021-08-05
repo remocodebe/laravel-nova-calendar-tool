@@ -18,7 +18,7 @@ This is a package for [Laravel Nova](https://nova.laravel.com/) which allows you
 Install the package via composer:
 
 ```
-composer require czemu/nova-calendar-tool
+composer require remocodebe/laravel-nova-calendar-tool
 ```
 
 Publish the migration:
